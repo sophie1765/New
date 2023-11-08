@@ -15,6 +15,7 @@ import java.util.*;
  */
 public class Canvas
 {
+    //super 
     // Note: The implementation of this class (specifically the handling of
     // shape identity and colors) is slightly more complex than necessary. This
     // is done on purpose to keep the interface and instance fields of the
